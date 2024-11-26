@@ -1,7 +1,7 @@
 # badapple
 Bad Apple!! (in python)
 
-made by me and @aenriii :3
+made by me and [@aenriii](https://github.com/aenriii) :3
 
 # How to use
 You *must* use this under Linux. It does not work properly under Windows due to the console speed. (Even if you have a fast computer!)
